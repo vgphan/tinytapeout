@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My first two inputs go through an adder. The last input goes through an inverter. The rest pass through. 
 
 ## How to test
 
-Explain how to use your project
+Flip the switches in order to light up the clock.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+This requires the default seven segment display and dip switches.
